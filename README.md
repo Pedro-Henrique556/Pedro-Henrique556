@@ -17,11 +17,11 @@ Atualmente, estou focado em aprender e aprimorar minhas habilidades em várias l
 > 🧠 Sempre aprendendo algo novo.  
 > 💼 Em busca da minha primeira oportunidade profissional na área de tecnologia.  
 > 📈 Evoluindo um pouco a cada dia.
-
+![github-user-contribution](https://github.com/user-attachments/assets/9f1e73f8-3acc-4b12-9ce5-498efdd9ce0b)
 ---
 
 ## 🌱 Tecnologias que estou estudando atualmente:
-  ![github-user-contribution](https://github.com/user-attachments/assets/9f1e73f8-3acc-4b12-9ce5-498efdd9ce0b)
+  
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />  
