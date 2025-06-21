@@ -45,6 +45,7 @@ Atualmente, estou focado em aprender e aprimorar minhas habilidades em várias l
 
 ## 📚 Meu objetivo:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Henrique556&show_icons=true&theme=tokyonight)
 > **Me tornar um desenvolvedor Full Stack preparado para o mercado de trabalho.**  
 > Estou estudando todos os dias para dominar tanto o Front-End quanto o Back-End, além de boas práticas de Git, APIs e Banco de Dados.
 
