@@ -21,7 +21,7 @@ Atualmente, estou focado em aprender e aprimorar minhas habilidades em várias l
 ---
 
 ## 🌱 Tecnologias que estou estudando atualmente:
-
+  ![github-user-contribution](https://github.com/user-attachments/assets/9f1e73f8-3acc-4b12-9ce5-498efdd9ce0b)
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />  
@@ -64,11 +64,10 @@ Atualmente, estou focado em aprender e aprimorar minhas habilidades em várias l
 - Adoro resolver problemas com lógica de programação.
 - Tenho perfil de aprendizado rápido e foco em projetos práticos.
 
----
 
-<div align="center">
 
-![Snake animation](https://github.com/Pedro-Henrique556/Pedro-Henrique556/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
+-![giphy](https://github.com/user-attachments/assets/0969af5a-83ca-4665-9748-966f09e80649)
+
 
